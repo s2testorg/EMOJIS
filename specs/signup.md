@@ -5,6 +5,13 @@ testspace:
 # Sign Up
 This test different startup stages of the application, eventually transitioning to the `idle` state. 
 
+- 🤷‍♂️🎯
+- ❌
+- :monkey_face:
+- 🥇
+- :relaxed:
+
+
 ## Check Transitions
 The display will be changed based on the following configurations: 
 
