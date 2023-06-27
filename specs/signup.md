@@ -15,6 +15,13 @@ This test different startup stages of the application, eventually transitioning 
 ## Check Transitions
 The display will be changed based on the following configurations: 
 
+
+- 🤷‍♂️🎯
+- ❌
+- :monkey_face:
+- 🥇
+- :relaxed:
+
 Mode 1.a | Mode 2.c
 -------- | --------
  State 1 | State n
